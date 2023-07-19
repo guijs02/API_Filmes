@@ -8,5 +8,6 @@ const express = require("express");
     .post("/filmes", Controller.cadastrarFilme)
     .get('/filmes/:id', Controller.ListarPorid)
     .put('/filmes/:id', Controller.AtualizarFilme)
+    .delete('/filmes/:id', Controller.DeletarFilme)
 
  module.exports = router
