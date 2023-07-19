@@ -9,6 +9,7 @@ class FilmeController {
       res.status(500).json({ message: error.message });
     }
   };
+
   static cadastrarFilme = (req, res) => {
     let filme = new filmes(req.body);
     filme.save((err) => {
@@ -21,6 +22,7 @@ class FilmeController {
       }
     });
   };
+  
   static ListarPorid = async (req, res) => {
     try {
       let { id } = req.params;
