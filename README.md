@@ -2,7 +2,7 @@ Este projeto realizado é uma API Crud com o tema de filmes, é possível realiz
 
 <h2>Tecnologias</h2>
 Node.js, MongoDb Atlas, Mongoose e Express.
-
+<br>
 A API possui os seguintes endpoints:
 
 <h2>Obter o filme pelo id </h2>
