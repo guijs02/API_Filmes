@@ -1,4 +1,7 @@
-Este projeto realizado em Node.js, MongoDb Atlas, Mongoose e Express, é uma API de filmes que foi criado afim de estudos com o JavaScript e o Node.js.
+Este projeto realizado é uma API Crud com o tema de filmes, é possível realizar todas as operações de um cadastro neste sistema.
+
+<h2>Tecnologias</h2>
+Node.js, MongoDb Atlas, Mongoose e Express.
 
 A API possui os seguintes endpoints:
 
