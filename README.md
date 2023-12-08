@@ -1,7 +1,12 @@
-Este projeto realizado é uma API Crud com o tema de filmes, é possível realizar todas as operações de um cadastro neste sistema.
+## Sobre a API de Filmes
+Este projeto realizado é uma API com o tema de filmes sendo possível realizar todas as operações de um cadastro.<br>
+Os verbos GET e POST devolvem dados como identificação do filme, nome e data de lançamento.<br>
+O restante devolve uma mensagem positiva ou negativa para o usuário.
 
-<h2>Tecnologias</h2>
-Node.js, MongoDb Atlas, Mongoose e Express.
+## 📡 Tecnologias
+- Node.js
+- MongoDb Atlas,
+- Mongoose e Express.
 <br>
 A API possui os seguintes endpoints:
 
